@@ -10,4 +10,7 @@ elseif game.PlaceId == 3823781113 then
 elseif game.PlaceId == 1537690962 then
     -- bee swarm
     loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/bee-swarm-simulator/master/bee%20swarm%20simulator%20ui%20v1',true))()
+elseif game.PlaceId == 5098929086 then
+    -- tapping simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/tapping-simulator/master/tapping%20simulator%20v1',true))()
 end
