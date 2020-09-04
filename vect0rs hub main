@@ -13,4 +13,7 @@ elseif game.PlaceId == 1537690962 then
 elseif game.PlaceId == 5098929086 then
     -- tapping simulator
     loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/tapping-simulator/master/tapping%20simulator%20v1',true))()
+elseif game.PlaceId == 3527629287 then
+    -- big paintball
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/big-paintball/master/big%20paintball',true))()
 end
