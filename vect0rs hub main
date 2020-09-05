@@ -16,4 +16,7 @@ elseif game.PlaceId == 5098929086 then
 elseif game.PlaceId == 3527629287 then
     -- big paintball
     loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/big-paintball/master/big%20paintball',true))()
+elseif game.PlaceId == 5617870058 then
+    -- Pet Battle Simulator
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/pet-battle-simulator/master/pet%20battle%20sim',true))()
 end
