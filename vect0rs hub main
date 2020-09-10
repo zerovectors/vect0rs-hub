@@ -19,4 +19,7 @@ elseif game.PlaceId == 3527629287 then
 elseif game.PlaceId == 5617870058 then
     -- Pet Battle Simulator
     loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/pet-battle-simulator/master/pet%20battle%20sim',true))()
+elseif game.PlaceId == 301549746 then
+    -- Counter Blox
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/counter-blox/master/counter%20blox%20main',true))()
 end
