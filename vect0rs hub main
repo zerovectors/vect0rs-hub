@@ -3,7 +3,7 @@ if game.PlaceId == 4476549181 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/pet-ranch-sim-2/master/pet%20ranch%20sim%202%20ui%20v1',true))()
 elseif game.PlaceId == 189707 then
     -- nds
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/nds/master/nds%20ui%20v8',true))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/nds/master/nds%20ui%20v10',true))()
 elseif game.PlaceId == 3823781113 then
     -- saber sim
     loadstring(game:HttpGet('https://raw.githubusercontent.com/zerovectors/saber-simulator/master/saber%20sim%20v1',true))()
